@@ -143,10 +143,10 @@ div {
     top: 104px;
     left: 117px;
     width: 227px;
-    height: 171px;
+    height: 168px;
     border: solid 6px rgb(241, 149, 194);
-    border-radius: 122px 141px 176px 100px/ 119px 66px 141px 101px;
-    transform: rotate(-26deg);
+    border-radius: 132px 166px 176px 100px/ 125px 74px 150px 101px;
+    transform: rotate(-30deg);
     background-color: #ffbfe8;
 }
 
